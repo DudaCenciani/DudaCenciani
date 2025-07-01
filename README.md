@@ -10,7 +10,7 @@
 ## 🚀 Tecnologias que estou utilizando:
 
 - **Frontend:** HTML, CSS, JavaScript, Flutter  
-- **Backend:** Pyton, C#, ASP.NET Core  
+- **Backend:** Python, C#, ASP.NET Core  
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Outros:** Git, GitHub, Firebase, Entity Framework
 
