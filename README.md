@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Maria Eduarda Cenciani
 
-<!--
-**DudaCenciani/DudaCenciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão de TI na FATEC  
+💻 Desenvolvedora Júnior com foco em Full Stack  
+📍 Pedra Bela - SP , Brasil 
+📱 Apaixonada por transformar ideias em soluções digitais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou utilizando:
+
+- **Frontend:** HTML, CSS, JavaScript, Flutter  
+- **Backend:** C#, ASP.NET Core  
+- **Banco de Dados:** MySQL, PostgreSQL  
+- **Outros:** Git, GitHub, Firebase, Entity Framework
+
+---
+
+## 📱 Projetos em destaque:
+
+
+
+## ✉️ Entre em contato:
+- [LinkedIn] (www.linkedin.com/in/maria-eduarda-cenciani-)
+- Email:cencianimariaeduarda@gmail.com
+
+> Obrigada por visitar meu perfil! 💙
