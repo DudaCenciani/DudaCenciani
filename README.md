@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou a Maria Eduarda Cenciani
 
 🎓 Estudante de Gestão de TI na FATEC  
-💻 Desenvolvedora Júnior com foco em Full Stack  
+💻 Desenvolvedora com foco em C# ,ASP.NET  
 📍 Pedra Bela - SP , Brasil 
 📱 Apaixonada por transformar ideias em soluções digitais
 
